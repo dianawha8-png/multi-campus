@@ -6,3 +6,13 @@ streamlit-aggrid==1.0.5
 plotly==5.24.1
 reportlab==4.2.2
 python-dotenv==1.0.1
+```【2-232a0c】
+
+---
+
+## 3. Commit GitHub
+
+Message :
+
+```text
+Correction Supabase 2026
